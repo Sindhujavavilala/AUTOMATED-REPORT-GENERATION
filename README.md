@@ -19,24 +19,31 @@ This project is designed to automate the generation of formatted PDF reports fro
 **TOOLS AND TECHNOLOGIES USED**
 
 **1. Python:**
+
 Python is the main programming language used for this project. Its simplicity and extensive ecosystem of libraries make it a perfect choice for this task. Python is used for reading the input data, processing it, and generating the PDF output.
 
 **2. FPDF Library:**
+
 The FPDF library is used to generate the PDF reports in this project. FPDF is a free and open-source Python library that allows for the creation of PDF documents from scratch. It provides features for formatting text, adding headers/footers, and working with tables and images, among other things.
 
-**Installation:** To install the FPDF library, use the following command:
+**Installation:**
+
+To install the FPDF library, use the following command:
 
 ```bash
 pip install fpdf
 ```
 
 **3. Text File (Input Data):**
+
 The input data for this project is provided through a plain text file, typically named data.txt. The file contains structured data that is read by the script and processed to generate the report. The data can be dynamic, and the script is flexible enough to handle any textual data provided in the file.
 
 **4. Operating System:**
+
 The project is designed to work on multiple operating systems including Windows, macOS, and Linux, making it cross-platform. The script can be run from the command line (Terminal or Command Prompt) with Python installed.
 
 **HOW IT WORKS**
+
 The project consists of two main components: reading data from the input file and generating a PDF report from that data.
 
 **Step 1: Reading Data from File:**
@@ -58,6 +65,7 @@ After running the script, a PDF file (report.pdf) is generated. This file contai
 **Python Official Documentation:** Python's - [Official Documentation](https://docs.python.org/3/) is a valuable resource for understanding Python's file handling, text processing, and general programming concepts.
 
 **OUTPUT EXAMPLE**
+
 The script generates a well-structured PDF report. The layout of the PDF is as follows:
 
  - **Title:** The title of the report appears at the top of the first page, centered.
