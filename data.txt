@@ -1,0 +1,68 @@
+Monthly Sales Report - December 2024
+-------------------------------------------
+Report Generated on: 2025-01-04
+
+**Total Sales Summary**
+---------------------------
+- Total Sales: $1,250,000
+- Total Units Sold: 10,500
+- Sales Target: $1,300,000
+- Sales Achievement: 96.15%
+
+**Top 5 Performing Products**
+---------------------------
+1. **Product A**: $250,000 (2,500 units)
+2. **Product B**: $200,000 (2,000 units)
+3. **Product C**: $180,000 (1,800 units)
+4. **Product D**: $150,000 (1,500 units)
+5. **Product E**: $120,000 (1,200 units)
+
+**Sales by Region**
+---------------------------
+- **North Region**: $500,000 (4,500 units)
+- **South Region**: $300,000 (3,000 units)
+- **East Region**: $250,000 (2,500 units)
+- **West Region**: $200,000 (2,000 units)
+
+**Sales by Category**
+---------------------------
+- **Electronics**: $600,000 (5,000 units)
+- **Furniture**: $350,000 (3,000 units)
+- **Clothing**: $200,000 (2,000 units)
+- **Toys & Games**: $100,000 (500 units)
+
+**Customer Demographics**
+---------------------------
+- **Age Groups**:
+    - 18-24: $150,000 (1,500 units)
+    - 25-34: $350,000 (3,500 units)
+    - 35-44: $400,000 (4,000 units)
+    - 45-54: $250,000 (2,500 units)
+    - 55 and above: $50,000 (500 units)
+
+- **Gender Breakdown**:
+    - Male: $600,000 (6,000 units)
+    - Female: $500,000 (4,500 units)
+    - Other: $150,000 (1,000 units)
+
+**Sales Trends (Month-over-Month)**
+---------------------------
+- **November 2024 Sales**: $1,150,000 (9,000 units)
+- **December 2024 Sales**: $1,250,000 (10,500 units)
+- **Growth**: 8.7% increase in sales compared to last month
+
+**Performance Highlights**
+---------------------------
+- **Best-performing Product**: Product A with $250,000 in sales
+- **Best Region**: North Region with $500,000 in sales
+- **Highest Revenue Age Group**: 35-44 years, contributing $400,000
+- **Highest Sales Gender**: Male, with $600,000 in sales
+
+**Additional Notes**
+---------------------------
+- The sales increase in December was primarily driven by promotions on Products A, B, and C.
+- The North Region performed exceptionally well due to high demand during the holiday season.
+- Customer interest in electronics saw a significant rise, contributing to the overall sales growth.
+
+-------------------------------------------
+End of Report
