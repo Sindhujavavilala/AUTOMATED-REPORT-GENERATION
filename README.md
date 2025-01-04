@@ -80,3 +80,9 @@ The report is formatted such that it is easily readable, with proper alignment, 
 This project demonstrates the ability to automate report generation using Python. By reading data from a text file and processing it through the FPDF library, users can quickly generate well-formatted PDF reports. This automation saves time and effort for users who need to generate reports regularly, and the flexibility of the script allows it to be adapted to different data sources and formats.
 
 This project can be extended by integrating with other data sources (like databases or web scraping), adding more formatting options, or creating dynamic reports based on user input.
+
+**OUTPUT OF THE TASK**
+
+![image](https://github.com/user-attachments/assets/e8610c56-b396-4e02-a3e5-ba2cd2f8b5d7)
+
+
