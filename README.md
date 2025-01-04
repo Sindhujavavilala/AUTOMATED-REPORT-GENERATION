@@ -85,4 +85,8 @@ This project can be extended by integrating with other data sources (like databa
 
 ![image](https://github.com/user-attachments/assets/e8610c56-b396-4e02-a3e5-ba2cd2f8b5d7)
 
+![image](https://github.com/user-attachments/assets/6a26a171-f0e5-4eb6-84d8-f77a7f7e6a2e)
+
+![image](https://github.com/user-attachments/assets/c96f1139-5825-4ca3-bfae-0fb84d5a37c6)
+
 
